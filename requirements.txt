@@ -12,7 +12,7 @@ django-bootstrap4==1.1.1
 django-stdimage==5.1.1
 bcrypt
 
-django_debug_toolbar==2.2
+django_debug_toolbar==2.2.1
 
 django-phone-field
 django-phonenumber-field==4.0.0
